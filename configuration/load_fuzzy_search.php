@@ -1,0 +1,10 @@
+<?php
+require_once("modules/search/Fuse.php");
+require_once("modules/search/Bitap/Bitap.php");
+require_once("modules/search/Bitap/matched_indices.php");
+require_once("modules/search/Bitap/pattern_alphabet.php");
+require_once("modules/search/Bitap/regex_search.php");
+require_once("modules/search/Bitap/score.php");
+require_once("modules/search/Bitap/search.php");
+require_once("modules/search/Helpers/deep_value.php");
+require_once("modules/search/Helpers/is_list.php");
