@@ -1,4 +1,5 @@
 <?php
+header("ACCESS-CONTROL-ALLOW-ORIGIN:http://www.sornhub.com");
 /**
  * thread.php
  *  mode
